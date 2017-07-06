@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28" height="46" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <linearGradient id="svg_2">
+   <stop offset="0" stop-color="#fff"/>
+   <stop offset="1" stop-color="#00f0NaN"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill-opacity="0" x="-1" y="-1" width="30" height="48" id="canvas_background" fill="url(#svg_2)"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_22" transform="rotate(-180 15.000000953674316,23.9999942779541) ">
+   <g id="svg_5" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) ">
+    <path d="m98.71852,308.03952l215.5,-215.5c5.3,-5.3 5.3,-13.8 0,-19.1s-13.8,-5.3 -19.1,0l-225.1,225.1c-5.3,5.3 -5.3,13.8 0,19.1l225.1,225c2.6,2.6 6.1,4 9.5,4s6.9,-1.3 9.5,-4c5.3,-5.3 5.3,-13.8 0,-19.1l-215.4,-215.5z" fill="#B3B3B3" id="svg_6"/>
+   </g>
+   <g id="svg_7" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+   <g id="svg_8" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+   <g id="svg_9" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+   <g id="svg_10" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+   <g id="svg_11" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+   <g id="svg_12" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+   <g id="svg_13" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+   <g id="svg_14" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+   <g id="svg_15" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+   <g id="svg_16" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+   <g id="svg_17" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+   <g id="svg_18" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+   <g id="svg_19" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+   <g id="svg_20" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+   <g id="svg_21" transform="matrix(0.07807681233339281,0,0,0.07807681233339281,0,0) "/>
+  </g>
+ </g>
+</svg>
