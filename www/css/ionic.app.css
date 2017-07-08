@@ -5273,7 +5273,7 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   overflow: hidden;
   min-height: 100%;
   max-height: 100%;
-  width: 275px;
+  width: 50%;
   background-color: #fff; }
   .menu .scroll-content {
     z-index: 10; }

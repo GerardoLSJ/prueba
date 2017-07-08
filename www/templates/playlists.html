@@ -1,7 +1,7 @@
 <ion-view view-title="Playlists">
   <ion-content>
     <ion-list>
-      <ion-item ng-repeat="item in messages" href="#/app/playlists/{{playlist.id}}">
+      <ion-item ng-repeat="item in messages | orderBy:item.TIMESTAMP:false"> <!-- | orderBy:item.TIMESTAMP -->
        {{item.time }},{{item.TIMESTAMP | date: "hh:mm:ss" }}, {{item.message }}, 
       </ion-item>
 
@@ -12,10 +12,13 @@
 </div>
       <button class="button button-block button-positive" ng-click="add(texto)"> add mensaje </button>
 
-            <button class="button button-block button-calm" ng-click="loadmore()"> Ver anteriores </button>
+            <button class="button button-block button-calm" ng-click="arriba()"> arriba Ver anteriores </button>
+
+
+            <button class="button button-block button-calm" ng-click="abajo()"> abajo Ver siguientes </button>
 
       <input type="text">
-            <ion-item ng-repeat="item in news" href="#/app/playlists/{{playlist.id}}">
+            <ion-item ng-repeat="item in news " href="#/app/playlists/{{playlist.id}}">
           {{item.time }},{{item.TIMESTAMP | date: "hh:mm:ss" }}, {{item.message }}, 
       </ion-item>
     </ion-list>
